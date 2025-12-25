@@ -28,7 +28,7 @@ The goal of this repo is to:
 
 ## 📌 How to Use
 
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/your-username/dsa-using-cpp.git
    cd dsa-using-cpp
