@@ -1,7 +1,7 @@
 # 📘 DSA Last Nail
 
 Welcome to my **Data Structures and Algorithms** journey.  
-This repository is a personal collection of important DSA problems and solutions that I've practiced and learned from, all written in clean and well-commented code. Last Nail suggests that, after multiple projects, countless hackathons, and a ton of certificates, DSA comes down to the most important growth factor in the recent job market: you've got to conquer it!!
+This repository is a personal collection of important DSA problems and solutions that I've practiced and learned from, all written in clean and well-commented code. Last Nail suggests that, after multiple projects, countless hackathons, and a multitude of certificates, DSA emerges as the most important growth factor in the recent job market: you've got to conquer it!
 
 ---
 
