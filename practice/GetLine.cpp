@@ -4,7 +4,7 @@ int main()
 {
     int age;
     string name;
-    cout << "tell your age and name!\n";
+    cout << "Tell your age and name!\n";
     cin >> age;
     cin.ignore();
     getline(cin, name);
