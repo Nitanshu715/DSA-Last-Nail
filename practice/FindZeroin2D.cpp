@@ -25,8 +25,8 @@ int main()
         {
             if (arr[i][j] == 0)
             {
-               cout << "The row: " << i << " contains a 0.";
-               cout << "The column: " << j << " contains a 0."; 
+               cout << "The row: " << i << " contains a 0.\n";
+               cout << "The column: " << j << " contains a 0.\n"; 
             }
         }
     }
