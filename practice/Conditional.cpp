@@ -9,7 +9,7 @@ int main()
     cin.ignore();
     cout << "Enter your name: ";
     getline(cin, name);
-    if (age > 18)
+    if (age >= 18)
     {
         cout << "Hello " << name << ", you are an adult!";
     }
